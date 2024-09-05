@@ -1,0 +1,1 @@
+# 2024_Noto_earthquake_swarm_project
