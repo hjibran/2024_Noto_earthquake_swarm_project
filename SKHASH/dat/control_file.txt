@@ -4,10 +4,10 @@ $input_format  # format of input files
 SKHASH
 
 $conpfile        # P-polarity input filepath
-SKHASH/dat/IN/pol_consensus.csv
+SKHASH/dat/IN/dat.csv
 
 $stfile        # station list filepath
-SKHASH/dat/IN/station.csv
+SKHASH/dat/IN/stat.csv
 
 $outfile1      # focal mechanisms output filepath
 SKHASH/dat/OUT/out.csv
@@ -19,7 +19,7 @@ $outfile_pol_info
 SKHASH/dat/OUT/out_polinfo.csv
 
 $vmodel_paths  # whitespace/newline delimited list of paths to the velocity models
-SKHASH/dat/mvel.txt
+SKHASH/dat/sgm1.txt
 
 $output_angle_precision
 4
@@ -52,7 +52,7 @@ $qbadfrac      # assumed noise in amplitude ratios, log10 (e.g. 0.3 for a factor
 0.3
 
 $delmax        # maximum allowed source-receiver distance in km.
-140
+30000
 
 $cangle        # angle for computing mechanisms probability
 45
