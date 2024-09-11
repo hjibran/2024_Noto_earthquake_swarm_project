@@ -4,10 +4,10 @@ $input_format  # format of input files
 SKHASH
 
 $conpfile        # P-polarity input filepath
-SKHASH/dat/IN/dat.csv
+SKHASH/dat/IN/polarity_fix.csv
 
 $stfile        # station list filepath
-SKHASH/dat/IN/stat.csv
+SKHASH/dat/IN/station.csv
 
 $outfile1      # focal mechanisms output filepath
 SKHASH/dat/OUT/out.csv

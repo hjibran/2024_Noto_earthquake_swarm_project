@@ -125,7 +125,7 @@ p_dict={
 	'nx0':101, # maximum source-station distance bins for look-up tables
 	'nd0':14, # maximum source depth bins for look-up tables
 	'look_dep':[0,39,3], # minimum source depth, maximum, and interval for the lookup table
-	'look_del':[0,200,2], # minimum source-station distance, maximum, and interval for the lookup table
+	'look_del':[0,35000,2], # minimum source-station distance, maximum, and interval for the lookup table
 	'allow_hypocenters_outside_table':False, # If a hypocenter is outside of the lookup table range, the min/max lookup value is used. If False, an error will be produced.
 	'nump':9000, # number of rays traced
 

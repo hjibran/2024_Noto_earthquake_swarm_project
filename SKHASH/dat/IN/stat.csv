@@ -1,0 +1,9 @@
+station,location,channel,latitude,longitude,elevation
+a,0,BHZ,1,0,0
+b,,BHZ,1,1,0
+c,,BHZ,0,1,0
+d,0,BHZ,-1,1,0
+e,0,BHZ,-1,0,0
+f,,BHZ,-1,-1,0
+g,,BHZ,0,-1,0
+h,0,BHZ,1,-1,0
