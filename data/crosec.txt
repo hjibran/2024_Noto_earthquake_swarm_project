@@ -113,7 +113,7 @@
 636905523|2024/02/29 09:35:42.41Z | 35.3210| 140.2930|  25  |GFZ|||mb,5.26,GFZ|M,5.26,GFZ|Near east coast of eastern Honshu
 636893409|2024/02/29 07:27:22.09Z | 35.2702| 140.4510|  30.922|NEIC|||mb,4.80,NEIC|Near east coast of eastern Honshu
 636893398|2024/02/29 03:30:35.29Z | 35.2854| 140.4930|   0  |IDC|||mb,4.30,IDC|mbtmp,4.30,IDC|ML,3.70,IDC|MS,3.60,IDC|Near east coast of eastern Honshu
-636893316|2024/02/29 02:13:04.85Z | 35.4145| 140.5461|   0  |IDC|||mb,4.60,IDC|mbtmp,4.60,IDC|MS,3.90,IDC|ML,3.90,IDC|Near east coast of eastern Honshu
+636893316|2024/02/29 02:13:04.85Z | 35.4145| 140.5461|   0  |IDC|||mb,4.60,IDC|mbtmp,4.60,IDC|ML,3.90,IDC|MS,3.90,IDC|Near east coast of eastern Honshu
 637015493|2024/02/28 07:14:29.99Z | 37.3652| 137.0126|   8.622|NEIC|||mb,4.10,NEIC|Near west coast of eastern Honshu
 636889229|2024/02/27 12:43:57.86Z | 35.1566| 140.6119|  35  |NEIC|||mb,4.40,NEIC|Near east coast of eastern Honshu
 636886729|2024/02/26 21:40:17.97Z | 37.8768| 141.8042|  48.454|NEIC|||mb,4.70,NEIC|Near east coast of eastern Honshu
@@ -395,7 +395,7 @@
 626530888|2023/07/22 01:52:29.75Z | 36.4312| 140.5841|  59.8|IDC|||mb,4.50,IDC|mbtmp,4.80,IDC|MS,3.70,IDC|Near east coast of eastern Honshu
 626517584|2023/07/20 04:08:12.59Z | 35.6799| 140.7499|  49.305|NEIC|||mb,4.40,NEIC|Near east coast of eastern Honshu
 626591158|2023/07/18 11:00:54.05Z | 36.8602| 140.9900|  57.7|IDC|||mb,3.60,IDC|MS,4.20,IDC|mbtmp,3.80,IDC|ML,3.20,IDC|Near east coast of eastern Honshu
-626369786|2023/07/13 14:40:59.46Z | 35.0340| 136.0190| 343.1|GFZ|||mB,5.26,GFZ|mb,4.66,GFZ|M,4.66,GFZ|mb,4.66,GFZ|Mw(mB,4.66,GFZ|Western Honshu
+626369786|2023/07/13 14:40:59.46Z | 35.0340| 136.0190| 343.1|GFZ|||mB,5.26,GFZ|Mw(mB,4.66,GFZ|mb,4.66,GFZ|M,4.66,GFZ|mb,4.66,GFZ|Western Honshu
 626367028|2023/07/10 12:25:49.35Z | 36.9305| 140.8927|  84.5|IDC|||mb,3.60,IDC|mbtmp,4.00,IDC|MS,3.10,IDC|Near east coast of eastern Honshu
 626537407|2023/07/10 11:12:39.91Z | 35.5990| 137.3803|  75.5|IDC|||mb,3.40,IDC|ML,4.50,IDC|mbtmp,3.80,IDC|Eastern Honshu
 626366372|2023/07/09 19:52:21.98Z | 35.6067| 140.4101|  55.558|NEIC|||mb,4.60,NEIC|Near east coast of eastern Honshu
@@ -415,16 +415,16 @@
 626286486|2023/06/14 15:06:42.34Z | 35.6752| 140.7184|  51.121|NEIC|||mb,4.40,NEIC|Near east coast of eastern Honshu
 626326365|2023/06/08 10:34:29.45Z | 37.8888| 141.6162|  71.647|NEIC|||mb,4.40,NEIC|Near east coast of eastern Honshu
 626245895|2023/06/06 17:08:04.33Z | 36.3117| 141.7519|  33.878|NEIC|||mb,4.50,NEIC|Near east coast of eastern Honshu
-626245889|2023/06/06 16:10:37.11Z | 36.2300| 142.2520|  16.3|GFZ|||mb,4.77,GFZ|mb,4.77,GFZ|M,4.77,GFZ|ML,4.25,GFZ|Off east coast of Honshu
+626245889|2023/06/06 16:10:37.11Z | 36.2300| 142.2520|  16.3|GFZ|||mb,4.77,GFZ|M,4.77,GFZ|mb,4.77,GFZ|ML,4.25,GFZ|Off east coast of Honshu
 626242868|2023/06/05 21:05:31.66Z | 38.8673| 142.3615|  51.5|IDC|||mb,3.70,IDC|mbtmp,4.00,IDC|ML,3.20,IDC|MS,2.80,IDC|Near east coast of eastern Honshu
 626235517|2023/06/05 02:35:06.49Z | 38.4328| 142.3281|  41.107|NEIC|||mb,4.40,NEIC|Near east coast of eastern Honshu
 626235375|2023/06/04 13:59:14.41Z | 37.1703| 142.3391|  40.6|IDC|||mb,3.80,IDC|mbtmp,4.10,IDC|ML,3.70,IDC|MS,3.40,IDC|Off east coast of Honshu
 626235206|2023/06/04 01:58:33.07Z | 35.7132| 140.0502|  73.864|NEIC|||mb,4.70,NEIC|Near east coast of eastern Honshu
 626286411|2023/05/31 15:03:50.32Z | 38.7848| 142.6111|  41.9|IDC|||mb,3.90,IDC|mbtmp,4.10,IDC|ML,3.60,IDC|Near east coast of eastern Honshu
-626226352|2023/05/30 08:49:18.14Z | 37.5210| 137.3740|  10  |GFZ|||mB,6.32,GFZ|Mw(mB,6.03,GFZ|Mwp,5.80,GFZ|MwMwp,5.65,GFZ|M,4.55,GFZ|mb,4.55,GFZ|mb,4.55,GFZ|ML,3.43,GFZ|Near west coast of eastern Honshu
+626226352|2023/05/30 08:49:18.14Z | 37.5210| 137.3740|  10  |GFZ|||mB,6.32,GFZ|Mw(mB,6.03,GFZ|Mwp,5.80,GFZ|MwMwp,5.65,GFZ|mb,4.55,GFZ|M,4.55,GFZ|mb,4.55,GFZ|ML,3.43,GFZ|Near west coast of eastern Honshu
 626224736|2023/05/27 13:49:47.10Z | 35.5391| 140.5476|  64.7|IDC|||mb,3.60,IDC|MS,4.50,IDC|mbtmp,3.90,IDC|Near east coast of eastern Honshu
 626219985|2023/05/26 12:01:47.96Z | 35.4500| 141.0180|  10  |GFZ|||mB,5.74,GFZ|Mwp,5.68,GFZ|MwMwp,5.51,GFZ|Mw(mB,5.29,GFZ|M,4.95,GFZ|M,4.95,GFZ|mb,4.75,GFZ|Near east coast of eastern Honshu
-626224731|2023/05/26 11:07:39.91Z | 35.5030| 140.8540|  33.6|GFZ|||mB,4.63,GFZ|mb,4.57,GFZ|M,4.57,GFZ|mb,4.57,GFZ|Mw(mB,3.84,GFZ|ML,2.96,GFZ|Near east coast of eastern Honshu
+626224731|2023/05/26 11:07:39.91Z | 35.5030| 140.8540|  33.6|GFZ|||mB,4.63,GFZ|M,4.57,GFZ|mb,4.57,GFZ|mb,4.57,GFZ|Mw(mB,3.84,GFZ|ML,2.96,GFZ|Near east coast of eastern Honshu
 626737340|2023/05/26 10:03:24.10Z | 35.5294| 140.5281|  42  |NEIC|||mb,5.90,NEIC|Ms_20,5.80,NEIC|Near east coast of eastern Honshu
 626234680|2023/05/21 23:18:49.35Z | 37.6894| 141.9801|  35  |NEIC|||mb,4.10,NEIC|Near east coast of eastern Honshu
 626234654|2023/05/21 15:20:27.81Z | 37.5373| 137.3086|  10  |NEIC|||mb,4.40,NEIC|Near west coast of eastern Honshu
@@ -497,7 +497,7 @@
 625686973|2023/02/13 01:02:43.39Z | 37.7060| 141.5470|  56.7|GFZ|||mB,5.94,GFZ|Mw(mB,5.54,GFZ|M,5.10,GFZ|mb,4.84,GFZ|mb,4.84,GFZ|ML,4.79,GFZ|Near east coast of eastern Honshu
 625732048|2023/02/07 09:41:01.78Z | 36.6063| 140.6689|  99.4|IDC|||mb,3.50,IDC|mbtmp,4.00,IDC|Near east coast of eastern Honshu
 625711736|2023/02/02 17:58:24.27Z | 38.5806| 142.0340|  62.4|IDC|||mb,3.80,IDC|mbtmp,4.00,IDC|MS,3.20,IDC|Near east coast of eastern Honshu
-625711673|2023/02/02 00:18:53.49Z | 38.6788| 142.9795|  39.2|IDC|||mb,3.70,IDC|mbtmp,4.00,IDC|ML,4.00,IDC|MS,3.10,IDC|Near east coast of eastern Honshu
+625711673|2023/02/02 00:18:53.49Z | 38.6788| 142.9795|  39.2|IDC|||mb,3.70,IDC|ML,4.00,IDC|mbtmp,4.00,IDC|MS,3.10,IDC|Near east coast of eastern Honshu
 625691921|2023/01/31 08:46:42.47Z | 38.9009| 141.1202|   0  |IDC|||mb,3.60,IDC|MS,4.00,IDC|mbtmp,3.40,IDC|ML,1.80,IDC|Near east coast of eastern Honshu
 641889519|2023/01/30 19:15:43.48Z | 37.8497| 142.1119|  26.488|NEIC|||mb,4.50,NEIC|Off east coast of Honshu
 625606076|2023/01/30 00:32:10.30Z | 36.3618| 139.8797|  79.539|NEIC|||mb,4.30,NEIC|Eastern Honshu
@@ -543,7 +543,7 @@
 641810315|2022/11/25 17:01:50.76Z | 36.1311| 141.6532|  35.451|NEIC|||mb,4.50,NEIC|Near east coast of eastern Honshu
 625301516|2022/11/23 19:34:30.20Z | 35.7371| 140.2665|  65.241|NEIC|||mb,4.50,NEIC|Near east coast of eastern Honshu
 625301519|2022/11/23 19:33:18.85Z | 35.8979| 140.0086|  75.635|NEIC|||mb,4.20,NEIC|Near east coast of eastern Honshu
-641806777|2022/11/20 20:19:08.59Z | 37.0870| 141.2420|  59.3|GFZ|||mB,5.78,GFZ|Mwp,6.20,GFZ|MwMwp,6.13,GFZ|Mw(mB,5.33,GFZ|mb,4.57,GFZ|M,4.57,GFZ|mb,4.57,GFZ|ML,4.48,GFZ|Near east coast of eastern Honshu
+641806777|2022/11/20 20:19:08.59Z | 37.0870| 141.2420|  59.3|GFZ|||mB,5.78,GFZ|Mwp,6.20,GFZ|MwMwp,6.13,GFZ|Mw(mB,5.33,GFZ|M,4.57,GFZ|mb,4.57,GFZ|mb,4.57,GFZ|ML,4.48,GFZ|Near east coast of eastern Honshu
 625338644|2022/11/19 11:51:47.85Z | 35.4279| 140.7034|   0  |IDC|||mb,3.30,IDC|ML,4.20,IDC|mbtmp,3.60,IDC|Near east coast of eastern Honshu
 625228417|2022/11/17 17:35:19.59Z | 38.1835| 141.8036|  56.678|NEIC|||mb,4.60,NEIC|Near east coast of eastern Honshu
 625228407|2022/11/17 12:43:29.70Z | 35.6079| 140.1519|  64.858|NEIC|||mb,4.50,NEIC|Near east coast of eastern Honshu

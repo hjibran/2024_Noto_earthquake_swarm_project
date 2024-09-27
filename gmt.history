@@ -1,11 +1,11 @@
 # GMT 6 Session common arguments shelf
 BEGIN GMT 6.5.0
-B	a2:years:/a0.2:meters::.J971 vertical:WeSn
+B	a5g5:Longitude:/a100g100:Depth (Km)::.Cross Section:WeSn
 J	X
 JM	M15
-JX	X6/1.5
-R	2009/2024.7/-0.05/1.45
+JX	X10/4
+R	130/150/-500/0
 X	0
 Y	-3
-@L	6
+@L	2
 END
