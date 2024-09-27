@@ -1,0 +1,11 @@
+# GMT 6 Session common arguments shelf
+BEGIN GMT 6.5.0
+B	a2:years:/a0.2:meters::.J971 vertical:WeSn
+J	X
+JM	M15
+JX	X6/1.5
+R	2009/2024.7/-0.05/1.45
+X	0
+Y	-3
+@L	6
+END
